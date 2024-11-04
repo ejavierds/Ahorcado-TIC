@@ -12,12 +12,12 @@ Puedes jugar una versión en vivo del juego aquí: [Demo del Juego del Ahorcado]
 
 ## 🎯 Características
 
-- Interfaz de usuario intuitiva y atractiva
-- Múltiples niveles de dificultad
-- Temporizador para añadir emoción al juego
-- Sistema de puntuación
-- Diseño responsivo para jugar en dispositivos móviles y de escritorio
-- Animaciones suaves para una mejor experiencia de usuario
+- Interfaz de usuario intuitiva y atractiva.
+- Múltiples niveles de dificultad.
+- Temporizador para añadir emoción al juego.
+- Sistema de puntuación.
+- Diseño responsivo para jugar en dispositivos móviles y de escritorio.
+- Animaciones suaves para una mejor experiencia de usuario.
 
 ## 💻 Tecnologías Utilizadas
 
@@ -28,8 +28,8 @@ Puedes jugar una versión en vivo del juego aquí: [Demo del Juego del Ahorcado]
 ## 🎮 Cómo Jugar
 
 1. Visita la [demo del juego](https://juego-ahorcado-tic.s3.sa-east-1.amazonaws.com/index.html)
-2. Selecciona una letra haciendo clic en los botones del teclado virtual
-3. Intenta adivinar la palabra antes de que se complete el dibujo del ahorcado
+2. Selecciona una letra haciendo clic en los botones del teclado virtual.
+3. Intenta adivinar la palabra antes de que se complete el dibujo del ahorcado.
 4. ¡Gana puntos y avanza de nivel!
 
 ## 💻 Instalación Local
@@ -38,7 +38,7 @@ Si deseas ejecutar el juego en tu máquina local:
 
 1. Clona este repositorio: git clone https://github.com/ejavierds/Ahorcado-TIC.git
 2. Navega al directorio del proyecto: cd Ahorcado-TIC
-3. Abre el archivo `index.html` en tu navegador web preferido
+3. Abre el archivo `index.html` en tu navegador web preferido.
 
 ## 🤝 Contribuir
 
