@@ -40,18 +40,21 @@ Si deseas ejecutar el juego en tu máquina local:
 
 Las contribuciones son bienvenidas. Si tienes alguna idea para mejorar el juego:
 
-1. Haz un fork del repositorio
-2. Crea una nueva rama (`git checkout -b feature/AmazingFeature`)
-3. Haz commit de tus cambios (`git commit -m 'Add some AmazingFeature'`)
-4. Push a la rama (`git push origin feature/AmazingFeature`)
-5. Abre un Pull Request
+1. Crear un nuevo asunto (issue) [https://github.com/ejavierds/Tres-en-Raya-Clasico/issues](https://github.com/ejavierds/Ahorcado-TIC/issues)
+2. Generar un fork del repositorio [https://github.com/ejavierds/Tres-en-Raya-Clasico/forks](https://github.com/ejavierds/Ahorcado-TIC/forks)
+3. Crear una nueva rama [https://github.com/ejavierds/Tres-en-Raya-Clasico/branches](https://github.com/ejavierds/Ahorcado-TIC/branches)
+4. Abrir un pull request [https://github.com/ejavierds/Tres-en-Raya-Clasico/pulls](https://github.com/ejavierds/Ahorcado-TIC/pulls)
 
 ## 📝 Licencia
 
-Este proyecto está bajo la Licencia MIT. Ver el archivo `LICENSE` para más detalles.
+Distribuido bajo la Licencia Creative Commons (CC BY-NC-ND). Ver [LICENCIAS](https://descargas.intef.es/cedec/proyectoedia/guias/contenidos/guiasoftwarelibre/licencias_para_compartir.html) para más información.
 
 ## 📲 Contacto
 
-Edery Javier Rodríguez Alvarado - [@ejavierds](https://github.com/ejavierds) | [ederyrodriguezgmail.com](mailito:ederyrodriguezgmail.com)
+* Edery Javier Rodríguez Alvarado - [@ejavierds](https://github.com/ejavierds) | [ederyrodriguezgmail.com](mailto:ederyrodriguezgmail.com)
+* Link del Proyecto: [https://github.com/ejavierds/Ahorcado-TIC](https://github.com/ejavierds/Ahorcado-TIC)
 
-Link del Proyecto: [https://github.com/ejavierds/Ahorcado-TIC](https://github.com/ejavierds/Ahorcado-TIC)
+## 🙏 Agradecimientos
+
+- Inspirado en el clásico juego del Ahorcado.
+- Referencias y recursos utilizados en el desarrollo: [Visual Studio Code](https://code.visualstudio.com/) | [Amazon Web Server (AWS)](https://aws.amazon.com)
