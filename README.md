@@ -1,5 +1,9 @@
 # 🎮 Juego del Ahorcado - TIC
 
+<p align="center">
+  <img src="captura_pantalla_ahorcado_tic.png" alt="Captura de pantalla del juego" width="600">
+</p>
+
 Este proyecto es una implementación interactiva y educativa del clásico juego del ahorcado, desarrollado con terminología de Tecnologías de la Información y Comunicación (TIC).
 
 ## 🌐 Demo
