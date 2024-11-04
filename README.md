@@ -1,6 +1,6 @@
 # 🎮 Juego del Ahorcado - TIC
 
-Este proyecto es una implementación interactiva y educativa del clásico juego del ahorcado, desarrollado como parte de un proyecto para la asignatura de Tecnologías de la Información y Comunicación (TIC).
+Este proyecto es una implementación interactiva y educativa del clásico juego del ahorcado, desarrollado con terminología de Tecnologías de la Información y Comunicación (TIC).
 
 ## 🌐 Demo
 
